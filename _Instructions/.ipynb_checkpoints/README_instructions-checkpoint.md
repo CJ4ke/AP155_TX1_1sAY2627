@@ -1,12 +1,17 @@
 # Instructions 
 
 ## 25 August 2026
+Sync your fork and pull the updates \
+Create a branch \
+Do the following exercises, work on your own folder \
+
+
+## 01 September 2026
 Sync your fork \
-Check the instructions folder \
-Go to the notebook `1IdiomPlot_SURNAME.ipynb` \
-Make it a colab notebook by using `githubtocolab.com` (change the "github.com") \
-Make a copy in Drive \
-Change the file to your SURNAME \
-Work on the exercises  \
-Upload the colab notebook you worked on in this Shared Drive \
-Shared drive: `https://drive.google.com/drive/folders/1YVUPHmlzeXhdKl60o3H4riOLBAHOP2-M?usp=sharing` \
+Pull the updates (`git pull origin main`) \
+Make a copy of `2SubtractiveCancellation/2SubtractiveCancellation_Surname.ipynb` in your folder \
+In your copied file, rename the notebook so that Surname becomes your actual surname \
+Do the exercises \
+Commit and push to your forked repo \
+Create a pull request 
+
